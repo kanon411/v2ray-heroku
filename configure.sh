@@ -23,7 +23,7 @@ cat << EOF > /usr/local/etc/v2ray/config.json
                     {
                         "id": "$UUID",
                         "alterId": 0,
-                        "security":"auto"
+                        "security":"none"
                     }
                 ],
                 "disableInsecureEncryption": false
