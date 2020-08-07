@@ -6,9 +6,7 @@
         "UUID": {
             "description": "V2Ray UUID",
             "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
-        }
-    },
-    "env": {
+        },
         "BUFFERSIZE": {
             "description": "V2Ray BUFFERSIZE",
             "value": "307200"
