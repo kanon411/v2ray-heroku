@@ -15,12 +15,12 @@ install -d /usr/local/etc/v2ray
 cat << EOF > /usr/local/etc/v2ray/config.json
 {
    "levels":{
-       "1":{
-	   "handshake": 5,
+     "1":{
+       "handshake": 5,
        "connIdle": 300,
        "uplinkOnly": 3,
        "downlinkOnly": 3,
-	   "bufferSize": 307200
+       "bufferSize": $BUFFERSIZE
       }
     },
     "v2raygcon": {
