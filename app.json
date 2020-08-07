@@ -9,7 +9,7 @@
         },
         "BUFFERSIZE": {
             "description": "V2Ray BUFFERSIZE",
-            "value": 307200
+            "value": "307200"
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
