@@ -10,6 +10,10 @@
         "BUFFERSIZE": {
             "description": "V2Ray BUFFERSIZE",
             "value": "307200"
+        },
+        "VER": {
+            "description": "V2Ray VER",
+            "value": "v4.31.0"
         }
     },
     "repository": "https://github.com/kanon411/v2ray-heroku",
